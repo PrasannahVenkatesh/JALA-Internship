@@ -1,4 +1,4 @@
-
+// refer files -> A.java, B.java, c.java
 public class Inheritances {
 
 	public static void main(String[] args) {
