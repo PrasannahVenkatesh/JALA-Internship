@@ -1,5 +1,3 @@
-import java.io.PrintStream;
-
 public class Static {
 	
 	public int x = 10;
