@@ -1,4 +1,4 @@
-package Interfaces;
+// Refer School.java
 
 public interface Department extends Student{
 	
