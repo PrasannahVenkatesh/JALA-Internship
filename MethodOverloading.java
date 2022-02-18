@@ -1,4 +1,3 @@
-package MethodOverloading;
 
 // Same name, Same number of parameters, same data types methods will give error.
 public class MethodOverloading {
