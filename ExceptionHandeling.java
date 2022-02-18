@@ -1,6 +1,3 @@
-package Exceptions;
-
-import javax.management.Query;
 
 public class ExceptionHandeling {
 
